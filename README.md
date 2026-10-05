@@ -25,7 +25,19 @@ This public repository presents the product, its visual direction and selected t
 
 Four native iOS tabs anchor navigation. A separate floating plus opens Expense, Income and Investment. Oxford charcoal, blue and violet accents, subtle frosted surfaces, and Light/Dark/System appearance define the visual direction.
 
-## Visual preview
+## Native app · Light mode
+
+These screenshots were supplied by the app's creator and show the running native application in Light appearance with demo records. Home demonstrates discreet mode, replacing financial amounts with handwritten masks. Investments shows synthetic QA positions and explicitly dated reference information; the displayed quotes, balances and rates are test fixtures, not live market data.
+
+<table>
+  <tr><th>Home · Discreet mode</th><th>Investments</th></tr>
+  <tr>
+    <td><img src="images/home-light-discreet.png" alt="Fund Home in Light mode with demo accounts and handwritten discreet masks" width="360" /></td>
+    <td><img src="images/investments-light.png" alt="Fund Investments in Light mode with synthetic QA positions and stale reference quotes" width="360" /></td>
+  </tr>
+</table>
+
+## Earlier design exploration
 
 The existing images below are **AI-generated design mockups with fictional data**, not screenshots of the running native app. They document earlier design exploration; navigation, currency treatment and quick-entry labels have since evolved. They are included as visual references rather than proof of current behavior.
 
