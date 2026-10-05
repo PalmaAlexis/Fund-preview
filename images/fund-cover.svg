@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+  <title id="title">Fund — Your finances, with room to breathe.</title>
+  <desc id="desc">Oxford charcoal brand cover with blue and violet ambient light, a large Fund wordmark and four abstract panes for Home, Transactions, Cards and Investments. No financial records or application screenshots.</desc>
+  <defs>
+    <linearGradient id="base" x2="1" y2="1"><stop stop-color="#101725"/><stop offset="1" stop-color="#090C14"/></linearGradient>
+    <radialGradient id="blue"><stop stop-color="#3D79EF" stop-opacity=".45"/><stop offset="1" stop-color="#3D79EF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="violet"><stop stop-color="#8061DA" stop-opacity=".38"/><stop offset="1" stop-color="#8061DA" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#80D7ED" stop-opacity=".6"/><stop offset=".5" stop-color="#8B9FF8" stop-opacity=".12"/><stop offset="1" stop-color="#B595F2" stop-opacity=".5"/></linearGradient>
+    <linearGradient id="pane" x2="1" y2="1"><stop stop-color="#6897D5" stop-opacity=".13"/><stop offset="1" stop-color="#9581C8" stop-opacity=".06"/></linearGradient>
+  </defs>
+  <rect width="1600" height="620" rx="28" fill="url(#base)"/>
+  <ellipse cx="1120" cy="140" rx="620" ry="490" fill="url(#blue)"/>
+  <ellipse cx="1470" cy="510" rx="620" ry="510" fill="url(#violet)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="98" y="105" fill="#8CB5ED" font-size="15" letter-spacing="5">PERSONAL FINANCE, CONSIDERED</text>
+    <text x="88" y="302" fill="#F5F7FC" font-size="174" font-weight="650" letter-spacing="-9">FUND</text>
+    <text x="98" y="370" fill="#DCE5F3" font-size="33" letter-spacing="-.7">Your finances,</text>
+    <text x="98" y="415" fill="#DCE5F3" font-size="33" letter-spacing="-.7">with room to breathe.</text>
+    <path d="M98 477h54" stroke="#86BAF3" stroke-width="2"/>
+    <text x="98" y="527" fill="#95A6C0" font-size="17">Clear records. Quiet confidence.</text>
+    <g fill="url(#pane)" stroke="url(#edge)">
+      <rect x="830" y="110" width="298" height="190" rx="27"/>
+      <rect x="1150" y="110" width="298" height="190" rx="27"/>
+      <rect x="830" y="322" width="298" height="190" rx="27"/>
+      <rect x="1150" y="322" width="298" height="190" rx="27"/>
+    </g>
+    <g fill="none" stroke="#B4CDF6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M863 169l19-16 19 16v25h-14v-17h-10v17h-14z"/>
+      <path d="M1185 161h33m-33 15h24m-24 15h29"/>
+      <rect x="863" y="365" width="46" height="31" rx="7"/><path d="M863 375h46m-37 12h9"/>
+      <path d="M1185 397v-34m0 34h44m-36-9 10-12 9 5 15-20"/>
+    </g>
+    <g fill="#EDF2FB" font-size="25" font-weight="500">
+      <text x="863" y="247">Home</text><text x="1183" y="247">Transactions</text>
+      <text x="863" y="459">Cards</text><text x="1183" y="459">Investments</text>
+    </g>
+    <text x="1448" y="562" text-anchor="end" fill="#9CAECB" font-size="13" letter-spacing="3">ONE SPACE. YOUR PERSPECTIVE.</text>
+  </g>
+</svg>
